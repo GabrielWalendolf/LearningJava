@@ -18,7 +18,7 @@ Esses objetos:
 
 ### Classe:
 É o **molde** ou **estrutura** que define oque um objeto vai ter e fazer.
-Explo em Java:
+Exemplo em Java:
 
     public class Pessoa {
     String nome;
@@ -69,7 +69,7 @@ Consiste em esconder os atributos da classe e fornecer métodos públicos de ace
 Vantagem: protege os dados e permite validações antes de alterá-los.
 
 ## 4 - Associações, Agregação e Composição:
-Essas três  representam relacionamentos entre classes.
+Essas três representam relacionamentos entre classes.
 
 ### Associação:
 Relacionamento genérico entre duas classes.
@@ -117,6 +117,11 @@ Exemplo:
     p1: Pessoa
     nome = "Gabriel"
     idade = 19
+
+## Anotações 25/04/2025
+
+### Verificação de Boolean:
+A verificação de Boolean, pode ser feita sem precisar declarar que a verificação tem que ser verdadeira, exceto se a verificação a fazer é para verificar se é False.
 
 
 
