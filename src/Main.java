@@ -22,8 +22,24 @@ public class Main {
         // Questão 2
         Par_Impar_Pos_Neg verification_1 = new Par_Impar_Pos_Neg();
         verification_1.verificar();
+
+
+        // Questão 3
+        Quest_3 quest3 = new Quest_3();
+        quest3.calcular();
+
+        // Questão 4
+        Quest_4 quest4 = new Quest_4();
+        quest4.antecessor_sucessor();
         */
-        // teste
+
+        // Questão 5
+        // Teste
+        ContaBancaria conta1 = new ContaBancaria();
+        conta1.depositar(200);
+        conta1.getSaldo();
+        conta1.printar_saldo();
+
 
     }
 }
