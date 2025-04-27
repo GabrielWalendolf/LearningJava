@@ -31,15 +31,16 @@ public class Main {
         // Questão 4
         Quest_4 quest4 = new Quest_4();
         quest4.antecessor_sucessor();
-        */
 
-        // Questão 5
-        // Teste
+        // Simulação de Conta bancária
         ContaBancaria conta1 = new ContaBancaria();
         conta1.depositar(200);
         conta1.getSaldo();
         conta1.printar_saldo();
-
+        // Questão 5
+        Quest_5 quest5 = new Quest_5();
+        quest5.calcular();
+        */
 
     }
 }
