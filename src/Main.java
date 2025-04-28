@@ -1,6 +1,5 @@
 public class Main {
-    public static void main(String[] args)
-    {
+    public static void main(String[] args) {
         /*
         var r1 = new Retangulo();
         var r2 = new Retangulo();
@@ -40,7 +39,17 @@ public class Main {
         // Questão 5
         Quest_5 quest5 = new Quest_5();
         quest5.calcular();
+
+        // Questão 6
+        Quest_6 quest6 = new Quest_6();
+        quest6.reajustar();
+        // Questão 7
+        Quest_7 quest7 = new Quest_7();
+        quest7.torf();
         */
+        // todo: reajustar o código para suportar a classe AllQuest
+        // todo: criar uma nova classe para selecionar a questão desejada
+        // todo: otimizar parter dos códigos
 
     }
 }
