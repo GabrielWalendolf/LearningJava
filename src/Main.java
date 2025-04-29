@@ -45,9 +45,22 @@ public class Main {
         Quest_7 quest7 = new Quest_7();
         quest7.torf();
         */
-        AllQuest.Quest_1 quest1 = new AllQuest.Quest_1();
-        quest1.opcoes();
+        //Objeto quest1 criado e utilizado.
+//        AllQuest.Quest_1 quest1 = new AllQuest.Quest_1();
+//        quest1.A = 1.0;
+//        quest1.B = 1.1;
+//        quest1.C = 2.0;
+//        quest1.verificar();
         // todo: criar uma nova classe para selecionar a questão desejada
         // todo: otimizar parte dos códigos
+        // Construtor
+//        AllQuest.Quest_2 quest2 = new AllQuest.Quest_2(1);
+//        quest2.calcular();
+        AllQuest.ContaBancaria conta1= new AllQuest.ContaBancaria();
+        conta1.setSaldo(200);
+        conta1.getSaldo();
+
+
+
     }
 }
