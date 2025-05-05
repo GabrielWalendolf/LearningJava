@@ -56,11 +56,16 @@ public class Main {
         // Construtor
 //        AllQuest.Quest_2 quest2 = new AllQuest.Quest_2(1);
 //        quest2.calcular();
-        AllQuest.ContaBancaria conta1= new AllQuest.ContaBancaria();
-        conta1.setSaldo(200);
-        conta1.getSaldo();
+//        AllQuest.ContaBancaria conta1= new AllQuest.ContaBancaria();
+//        conta1.setSaldo(200);
+//        conta1.getSaldo();
 
+//        Lampada lamp1 = new Lampada();
+//        lamp1.ligada_ou_deligada = false;
+//        lamp1.ligar_desligar();
 
-
+//        Circulo circulo1 = new Circulo();
+//        circulo1.raio = 3;
+//        circulo1.calcular_area();
     }
 }
